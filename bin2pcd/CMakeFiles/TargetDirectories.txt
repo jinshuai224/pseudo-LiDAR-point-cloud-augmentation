@@ -1,0 +1,7 @@
+/home/seuiv/Projects/jinshuai/PoinTr/data/KITTI/data/CMakeFiles/install/strip.dir
+/home/seuiv/Projects/jinshuai/PoinTr/data/KITTI/data/CMakeFiles/edit_cache.dir
+/home/seuiv/Projects/jinshuai/PoinTr/data/KITTI/data/CMakeFiles/bin2pcd.dir
+/home/seuiv/Projects/jinshuai/PoinTr/data/KITTI/data/CMakeFiles/rebuild_cache.dir
+/home/seuiv/Projects/jinshuai/PoinTr/data/KITTI/data/CMakeFiles/list_install_components.dir
+/home/seuiv/Projects/jinshuai/PoinTr/data/KITTI/data/CMakeFiles/install/local.dir
+/home/seuiv/Projects/jinshuai/PoinTr/data/KITTI/data/CMakeFiles/install.dir
